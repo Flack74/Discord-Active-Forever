@@ -45,6 +45,4 @@ This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LIC
 For questions, issues, or suggestions, please [open an issue](https://github.com/Flack74/Discord-Active/issues) on the GitHub repository.
 
 ---
-
-Note: This README is a template and should be customized by the repository owner to accurately reflect the project's purpose, features, and usage instructions.
 ```
